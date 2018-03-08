@@ -1,0 +1,22 @@
+{
+  "name": "veden-slack",
+  "version": "0.7.0",
+  "description": "Slack utilities for NodeJS.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/theryaz/veden-slack.git"
+  },
+  "author": "Ryan Lawson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theryaz/veden-slack/issues"
+  },
+  "homepage": "https://github.com/theryaz/veden-slack#readme"
+}
