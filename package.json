@@ -2,7 +2,7 @@
   "name": "veden-slack",
   "version": "0.7.0",
   "description": "Slack utilities for NodeJS.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "directories": {
     "lib": "lib"
   },
